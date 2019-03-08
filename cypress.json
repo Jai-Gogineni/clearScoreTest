@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://www.clearscore.com/",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "mochaFile": "results/my-test-output.xml",
+      "toConsole": true
+    },
+    "screenshots": {
+      "trashAssetsBeforeRuns": true
+    },
+    "videos": {
+      "video": true,
+      "trashAssetsBeforeRuns": true
+    }
+  }
+  

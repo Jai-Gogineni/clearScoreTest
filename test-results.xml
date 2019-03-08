@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="4.399" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-03-08T14:52:31" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Validate accept cookies behaviours" timestamp="2019-03-08T14:52:31" tests="3" failures="0" time="4.399">
+    <testcase name="Validate accept cookies behaviours it should disply cookies popup message on initial page load" time="2.464" classname="it should disply cookies popup message on initial page load">
+    </testcase>
+    <testcase name="Validate accept cookies behaviours it should not display accept cookies popup once accepted by user" time="1.893" classname="it should not display accept cookies popup once accepted by user">
+    </testcase>
+    <testcase name="Validate accept cookies behaviours It should set CS_ACCEPT_COOKIES value to true" time="0.042" classname="It should set CS_ACCEPT_COOKIES value to true">
+    </testcase>
+  </testsuite>
+</testsuites>
